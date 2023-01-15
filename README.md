@@ -1,4 +1,4 @@
-# RoyaltyFree is a website of combinations of lots of thing where you can download hd photos,videos,giffs and you can download and watch youtube videos also on this site.
+# RoyaltyFree is a website which is a combination of lots of things where you can download hd photos,videos,giffs and you can download and watch youtube videos also on this site.
 
 features : 
 1.>search images and can download.
